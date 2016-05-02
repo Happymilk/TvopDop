@@ -1,0 +1,9 @@
+D:\Drive\учёба\3 курс\2 сем\ТВОП\доп\1\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\Drive\учёба\3 курс\2 сем\ТВОП\доп\1\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\Drive\учёба\3 курс\2 сем\ТВОП\доп\1\UnitTestProject1\UnitTestProject1\bin\Debug\WebDriver.dll
+D:\Drive\учёба\3 курс\2 сем\ТВОП\доп\1\UnitTestProject1\UnitTestProject1\bin\Debug\WebDriver.Support.dll
+D:\Drive\учёба\3 курс\2 сем\ТВОП\доп\1\UnitTestProject1\UnitTestProject1\bin\Debug\WebDriver.xml
+D:\Drive\учёба\3 курс\2 сем\ТВОП\доп\1\UnitTestProject1\UnitTestProject1\bin\Debug\WebDriver.Support.xml
+D:\Drive\учёба\3 курс\2 сем\ТВОП\доп\1\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+D:\Drive\учёба\3 курс\2 сем\ТВОП\доп\1\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\Drive\учёба\3 курс\2 сем\ТВОП\доп\1\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
